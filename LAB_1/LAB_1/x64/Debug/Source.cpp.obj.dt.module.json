@@ -3,10 +3,10 @@
     "revision": 0,
     "rules": [
         {
-            "primary-output": "x64\\Debug\\Source.obj",
+            "primary-output": "x64\\Debug\\source.obj",
             "outputs": [
-                "x64\\Debug\\Source.cpp.obj.dt.module.json",
-                "x64\\Debug\\Source.cpp.obj.dt.d.json"
+                "x64\\Debug\\source.cpp.obj.dt.module.json",
+                "x64\\Debug\\source.cpp.obj.dt.d.json"
             ],
             "requires": []
         }

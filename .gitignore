@@ -1,0 +1,90 @@
+# ==============================
+# C++: compiled files
+# ==============================
+*.o
+*.obj
+*.out
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.exp
+*.ilk
+*.pdb
+*.idb
+*.pch
+*.gch
+*.gcda
+*.gcno
+*.profraw
+
+# ==============================
+# Build directories
+# ==============================
+/build/
+/build-*/
+/bin/
+/obj/
+/out/
+/Debug/
+/Release/
+/x64/
+/x86/
+/Win32/
+/cmake-build-*/
+
+# ==============================
+# CMake generated files
+# ==============================
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+CTestTestfile.cmake
+Testing/
+
+# ==============================
+# Visual Studio generated files
+# ==============================
+.vs/
+ipch/
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ==============================
+# VS Code caches
+# ==============================
+.vscode/ipch/
+.vscode/.browse.VC.db*
+.history/
+
+# ==============================
+# OS files
+# ==============================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==============================
+# Logs and temporary files
+# ==============================
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+
+# ==============================
+# Package managers / dependencies
+# ==============================
+/vendor/
