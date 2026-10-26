@@ -1,0 +1,24 @@
+﻿  Source.cpp
+C:\Documents\GitHub\ShwartZ_Labs\LAB_1\LAB_1\Source.cpp(111,18): error C2589: (: недопустимая лексема справа от "::"
+C:\Documents\GitHub\ShwartZ_Labs\LAB_1\LAB_1\Source.cpp(120,34): error C2143: синтаксическая ошибка: отсутствие "}" перед "константа"
+C:\Documents\GitHub\ShwartZ_Labs\LAB_1\LAB_1\Source.cpp(120,34): error C2059: синтаксическая ошибка: константа
+C:\Documents\GitHub\ShwartZ_Labs\LAB_1\LAB_1\Source.cpp(120,56): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Documents\GitHub\ShwartZ_Labs\LAB_1\LAB_1\Source.cpp(120,56): error C2059: синтаксическая ошибка: }
+C:\Documents\GitHub\ShwartZ_Labs\LAB_1\LAB_1\Source.cpp(187,43): error C2838: "NO_SOLUTION": недопустимое полное имя в объявлении члена
+C:\Documents\GitHub\ShwartZ_Labs\LAB_1\LAB_1\Source.cpp(187,43): error C2065: NO_SOLUTION: необъявленный идентификатор
+C:\Documents\GitHub\ShwartZ_Labs\LAB_1\LAB_1\Source.cpp(191,35): error C2589: константа: недопустимая лексема справа от "::"
+C:\Documents\GitHub\ShwartZ_Labs\LAB_1\LAB_1\Source.cpp(191,22): error C2062: тип "<ошибка>" не требуется
+C:\Documents\GitHub\ShwartZ_Labs\LAB_1\LAB_1\Source.cpp(221,18): error C2589: (: недопустимая лексема справа от "::"
+C:\Documents\GitHub\ShwartZ_Labs\LAB_1\LAB_1\Source.cpp(234,18): error C2589: (: недопустимая лексема справа от "::"
+C:\Documents\GitHub\ShwartZ_Labs\LAB_1\LAB_1\Source.cpp(303,21): error C2589: (: недопустимая лексема справа от "::"
+C:\Documents\GitHub\ShwartZ_Labs\LAB_1\LAB_1\Source.cpp(331,33): error C2589: (: недопустимая лексема справа от "::"
+C:\Documents\GitHub\ShwartZ_Labs\LAB_1\LAB_1\Source.cpp(353,48): error C2589: (: недопустимая лексема справа от "::"
+C:\Documents\GitHub\ShwartZ_Labs\LAB_1\LAB_1\Source.cpp(389,23): error C2589: константа: недопустимая лексема справа от "::"
+C:\Documents\GitHub\ShwartZ_Labs\LAB_1\LAB_1\Source.cpp(389,10): error C2062: тип "<ошибка>" не требуется
+C:\Documents\GitHub\ShwartZ_Labs\LAB_1\LAB_1\Source.cpp(393,23): error C2838: "NO_SOLUTION": недопустимое полное имя в объявлении члена
+C:\Documents\GitHub\ShwartZ_Labs\LAB_1\LAB_1\Source.cpp(393,23): error C2065: NO_SOLUTION: необъявленный идентификатор
+C:\Documents\GitHub\ShwartZ_Labs\LAB_1\LAB_1\Source.cpp(393,23): error C2131: выражение не определяется константой
+      C:\Documents\GitHub\ShwartZ_Labs\LAB_1\LAB_1\Source.cpp(393,23):
+      обнаружено неконстантное (под)выражение
+  
+C:\Documents\GitHub\ShwartZ_Labs\LAB_1\LAB_1\Source.cpp(393,23): error C2051: значение выражения для варианта выбора не является константой
